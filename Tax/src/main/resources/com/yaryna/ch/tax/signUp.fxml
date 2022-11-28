@@ -6,7 +6,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane maxHeight="573.0" maxWidth="956.0" minHeight="390.0" minWidth="506.0" prefHeight="573.0" prefWidth="956.0" style="-fx-background-color: #d48459;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.yaryna.ch.tax.SignUpController">
+<AnchorPane maxHeight="573.0" maxWidth="956.0" minHeight="390.0" minWidth="506.0" prefHeight="573.0" prefWidth="956.0" style="-fx-background-color: #d48459;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.yaryna.ch.tax.Controllers.SignUpController">
    <children>
       <AnchorPane layoutX="625.0" prefHeight="573.0" prefWidth="330.0" style="-fx-background-color: #ffffff;" />
       <Label layoutX="176.0" layoutY="39.0" text="Реєстрація">

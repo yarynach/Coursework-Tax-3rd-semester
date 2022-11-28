@@ -1,5 +1,5 @@
 package com.yaryna.ch.tax;
-import com.yaryna.ch.tax.User;
+import com.yaryna.ch.tax.Controllers.LogInController;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Node;
@@ -99,4 +99,3 @@ public class DBUtils {
         }
     }
 }
-

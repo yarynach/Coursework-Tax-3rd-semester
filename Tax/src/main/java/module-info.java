@@ -8,4 +8,7 @@ module com.example.tax {
     opens com.yaryna.ch.tax to javafx.fxml;
     exports com.yaryna.ch.tax;
     opens com.yaryna.ch.tax.Taxes to javafx.base;
+    exports com.yaryna.ch.tax.Controllers;
+    opens com.yaryna.ch.tax.Controllers to javafx.fxml;
+
 }
